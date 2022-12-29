@@ -1,48 +1,83 @@
 .menu {
+
     background-color: #080c15;
+
     height: 100vh;
+
     width: 110px;
+
     margin-top: -42px;
+
     position: fixed;
+
     text-align: center;
+
     align-items: center;
+
     font-size: 20px;
+
     border-right: 2px solid #e50914;
+
 }
 
 .links a {
+
     color: white;
+
     text-decoration: none;
+
 }
 
 .links li {
+
     text-align: center;
-    margin-top: 50px;
+
+    margin-top: 70px;
+
 }
 
 #selected {
+
     color: #e50914;
+
 }
 
 @media screen and (max-width: 768px) {
+
     .menu {
+
         background: rgb(8, 12, 21);
+
         background: linear-gradient(0deg, rgba(8, 12, 21, 1) 28%, rgba(8, 12, 21, 0.053211678515423744) 86%, rgba(0, 0, 0, 0.0014783471495241063) 100%);
+
         height: 100px;
+
         width: 100vw;
+
         bottom: 0;
+
     }
 
     .links {
+
         justify-content: center;
+
         align-items: center;
+
         justify-content: space-around;
+
         text-align: center;
+
         display: flex;
+
         list-style: none;
+
     }
 
     .links li {
-        margin-bottom: 100;
+
+        margin-top: 50px;
+
     }
+
 }
