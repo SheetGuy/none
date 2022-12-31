@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 
 body {
@@ -13,17 +14,22 @@ body {
 }
 
 .body-container {
-    margin: 100px 20px 0px 150px;
+    margin: 100px 110px 0px 110px;
 }
 
 .content-list {
-    width: 100vw;
-    height: 250vh;
+    width: 90vw;
+    height: 150vh;
 }
 
 
 @media screen and (max-width: 768px) {
     .body-container {
         margin: 100px 20px 0 0px;
+    }
+    
+    .content-list {
+        width: 100vw;
+        height: 450vw;
     }
 }
