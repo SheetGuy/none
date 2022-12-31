@@ -1,0 +1,155 @@
+body {
+    background-color: #080c15;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.poster-figure {
+    position: relative;
+    display: inline-block;
+
+}
+
+.poster-figure:hover .img-poster {
+    filter: blur(4px);
+}
+
+.poster-figure:hover .date {
+    opacity: 0;
+    left: -10px;
+}
+
+.poster-figure:hover .quality {
+    opacity: 0;
+    right: -10px;
+}
+
+.poster-figure:hover .play-icon-hover {
+    opacity: 1;
+    transition: opacity .9s ease;
+}
+
+.quality {
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    font-size: 17px;
+    height: 24px;
+    width: 40px;
+    text-align: center;
+    background-color: rgba(230, 51, 51, .4);
+    border-radius: 5px;
+    transition: all .3s ease;
+    color: white;
+}
+
+.date {
+    position: absolute;
+    top: 235px;
+    left: 10px;
+    font-size: 18px;
+    height: 28px;
+    width: 50px;
+    text-align: center;
+    background-color: rgba(8, 12, 21, .7);
+    border-radius: 5px;
+    transition: all .3s ease;
+    color: white;
+}
+
+.play-icon-hover {
+    content: url(../assets/play-ic.png);
+    opacity: 0;
+    position: absolute;
+    top: 80px;
+    left: 30px;
+    height: 115px;
+    width: 115px;
+    text-align: center;
+    transition: opacity .3s ease;
+}
+
+.play-icon-hover {
+    opacity: 0;
+}
+
+.img-poster {
+    border-radius: 5px;
+    transition: all .3s ease;
+}
+
+.butaum {
+    background-color: #000000;
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+    color: #ffffff;
+}
+
+.butaum:hover {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.col {
+    position: relative;
+    object-fit: cover;
+    margin: 12px;
+}
+
+
+.container {
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    justify-content: center;
+    align-items: center;
+
+}
+
+.img-poster {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    width: 180px;
+    height: 280px;
+}
+
+@media screen and (max-width: 768px) {
+    .container {
+        grid-template-columns: repeat(3, auto);
+    }
+
+    .img-poster {
+        width: 110px;
+        height: 170px;
+        object-fit: cover;
+    }
+
+    .date {
+        top: 140px;
+        left: 10px;
+        font-size: 13px;
+        height: 20px;
+        width: 40px;
+    }
+
+    .quality {
+        top: 5px;
+        right: 8px;
+        font-size: 13px;
+        height: 17px;
+        width: 30px;
+    }
+
+    .play-icon-hover {
+        top: 50px;
+        left: 20px;
+        height: 75px;
+        width: 75px;
+    }
+}
