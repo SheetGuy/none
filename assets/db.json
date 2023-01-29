@@ -1,9 +1,9 @@
 {
-  "filmes": [
+  "adicionado-recentemente": [
     {
-      "imgCapa": "https://s3.novatec.com.br/capas/9788575226834.jpg",
-      "descricao": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi eleifend, purus quis laoreet faucibus, ante augue malesuada mi, id rhoncus augue lorem eget elit. Ut sollicitudin sodales purus.</p>",
-      "titulo": "Avatar: O Caminha da Água",
+      "titulo": "M3gan",
+      "data": "2023",
+      "imagem": "d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",
       "pgAutores": {
         "pgAutor1": "autores/jose-manzano.php"
       },
