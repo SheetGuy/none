@@ -1,96 +1,80 @@
 [{
         "title": "Dawn of the Planet of the Apes",
         "image": "http://api.androidhive.info/json/movies/1.jpg",
-        "releaseYear": 2014,
-        "genre": ["Action", "Drama", "Sci-Fi"]
+        "releaseYear": 2014
     },
     {
         "title": "District 9",
         "image": "http://api.androidhive.info/json/movies/2.jpg",
-        "releaseYear": 2009,
-        "genre": ["Action", "Sci-Fi", "Thriller"]
+        "releaseYear": 2009
     },
     {
         "title": "Transformers: Age of Extinction",
         "image": "http://api.androidhive.info/json/movies/3.jpg",
-        "releaseYear": 2014,
-        "genre": ["Action", "Adventure", "Sci-Fi"]
+        "releaseYear": 2014
     },
     {
         "title": "X-Men: Days of Future Past",
         "image": "http://api.androidhive.info/json/movies/4.jpg",
-        "releaseYear": 2014,
-        "genre": ["Action", "Sci-Fi", "Thriller"]
+        "releaseYear": 2014
     },
     {
         "title": "The Machinist",
         "image": "http://api.androidhive.info/json/movies/5.jpg",
-        "releaseYear": 2004,
-        "genre": ["Drama", "Thriller"]
+        "releaseYear": 2004
     },
     {
         "title": "The Last Samurai",
         "image": "http://api.androidhive.info/json/movies/6.jpg",
-        "releaseYear": 2003,
-        "genre": ["Action", "Drama", "History"]
+        "releaseYear": 2003
     },
     {
         "title": "The Amazing Spider-Man 2",
         "image": "http://api.androidhive.info/json/movies/7.jpg",
-        "releaseYear": 2014,
-        "genre": ["Action", "Adventure", "Fantasy"]
+        "releaseYear": 2014
     },
     {
         "title": "Tangled",
         "image": "http://api.androidhive.info/json/movies/7.jpg",
-        "releaseYear": 2010,
-        "genre": ["Action", "Drama", "Sci-Fi"]
+        "releaseYear": 2010
     },
     {
         "title": "Rush",
         "image": "http://api.androidhive.info/json/movies/9.jpg",
-        "releaseYear": 2013,
-        "genre": ["Animation", "Comedy", "Family"]
+        "releaseYear": 2013
     },
     {
         "title": "Drag Me to Hell",
         "image": "http://api.androidhive.info/json/movies/10.jpg",
-        "releaseYear": 2009,
-        "genre": ["Horror", "Thriller"]
+        "releaseYear": 2009
     },
     {
         "title": "Despicable Me 2",
         "image": "http://api.androidhive.info/json/movies/11.jpg",
-        "releaseYear": 2013,
-        "genre": ["Animation", "Comedy", "Family"]
+        "releaseYear": 2013
     },
     {
         "title": "Kill Bill: Vol. 1",
         "image": "http://api.androidhive.info/json/movies/12.jpg",
-        "releaseYear": 2003,
-        "genre": ["Action", "Crime"]
+        "releaseYear": 2003
     },
     {
         "title": "A Bug's Life",
         "image": "http://api.androidhive.info/json/movies/13.jpg",
-        "releaseYear": 1998,
-        "genre": ["Animation", "Adventure", "Comedy"]
+        "releaseYear": 1998
     },
     {
         "title": "Life of Brian",
         "image": "http://api.androidhive.info/json/movies/14.jpg",
-        "releaseYear": 1972,
-        "genre": ["Comedy"]
+        "releaseYear": 1972
     },
     {
         "title": "How to Train Your Dragon",
         "image": "http://api.androidhive.info/json/movies/15.jpg",
-        "releaseYear": 2010,
-        "genre": ["Animation", "Adventure", "Family"]
+        "releaseYear": 2010
     },
     {
         "title": "Vai dar o boggagagagag",
         "image": "http://api.androidhive.info/json/movies/15.jpg",
-        "releaseYear": 5695,
-        "genre": ["Kklol", "Adventure", "Family"]
+        "releaseYear": 5695
     }]
