@@ -1,9 +1,9 @@
 {
-  "livros": [
+  "filmes": [
     {
       "imgCapa": "https://s3.novatec.com.br/capas/9788575226834.jpg",
       "descricao": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi eleifend, purus quis laoreet faucibus, ante augue malesuada mi, id rhoncus augue lorem eget elit. Ut sollicitudin sodales purus.</p>",
-      "titulo": "Primeiros passos com a linguagem Rust",
+      "titulo": "Avatar: O Caminha da Água",
       "pgAutores": {
         "pgAutor1": "autores/jose-manzano.php"
       },
@@ -21,7 +21,7 @@
     {
       "imgCapa": "https://s3.novatec.com.br/capas/9788575226674.jpg",
       "descricao": "<p>Phasellus libero felis, blandit nec, commodo ut, imperdiet ut, nibh. Suspendisse potenti. Donec ullamcorper cursus dolor. Duis vitae ipsum. Maecenas dapibus hendrerit diam. Morbi varius, massa id pretium accumsan, nunc lorem congue libero, ut euismod metus libero id nulla.</p>",
-      "titulo": "Programação em Baixo Nível",
+      "titulo": "Breaking Bad: A Química do Mal",
       "pgAutores": {
         "pgAutor1": "autores/igor-zhirkov.php"
       },
@@ -40,7 +40,7 @@
       "imgCapa": "https://s3.novatec.com.br/capas/9788575226681.jpg",
       "pgLivro": "livros/introducao-a-linguagem-lua",
       "descricao": "<p>Duis posuere odio sed velit vulputate venenatis. Suspendisse et dui ac metus auctor fringilla. Curabitur interdum augue a pede.</p>>",
-      "titulo": "Introdução à linguagem Lua",
+      "titulo": "A Volta dos que Não foram",
       "pgAutores": {
         "pgAutor1": "autores/jose-manzano.php"
       },
