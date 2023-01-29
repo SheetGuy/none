@@ -1,80 +1,80 @@
 [{
-        "title": "Dawn of the Planet of the Apes",
+        "title": "Breaking Bad",
         "image": "http://api.androidhive.info/json/movies/1.jpg",
-        "releaseYear": 2014
+        "releaseYear": 2013
     },
     {
-        "title": "District 9",
+        "title": "Avatar o Caminho da Água",
         "image": "http://api.androidhive.info/json/movies/2.jpg",
-        "releaseYear": 2009
+        "releaseYear": 2022
     },
     {
-        "title": "Transformers: Age of Extinction",
+        "title": "Cobra Kai",
         "image": "http://api.androidhive.info/json/movies/3.jpg",
-        "releaseYear": 2014
+        "releaseYear": 2018
     },
     {
-        "title": "X-Men: Days of Future Past",
+        "title": "M3gan",
         "image": "http://api.androidhive.info/json/movies/4.jpg",
-        "releaseYear": 2014
+        "releaseYear": 2023
     },
     {
-        "title": "The Machinist",
+        "title": "Adão Negro",
         "image": "http://api.androidhive.info/json/movies/5.jpg",
-        "releaseYear": 2004
+        "releaseYear": 2022
     },
     {
-        "title": "The Last Samurai",
+        "title": "The Boys",
         "image": "http://api.androidhive.info/json/movies/6.jpg",
-        "releaseYear": 2003
+        "releaseYear": 2022
     },
     {
-        "title": "The Amazing Spider-Man 2",
+        "title": "Better Call Saul",
         "image": "http://api.androidhive.info/json/movies/7.jpg",
-        "releaseYear": 2014
+        "releaseYear": 2020
     },
     {
-        "title": "Tangled",
+        "title": "El Camiño",
         "image": "http://api.androidhive.info/json/movies/7.jpg",
-        "releaseYear": 2010
+        "releaseYear": 2019
     },
     {
-        "title": "Rush",
+        "title": "Alita: Anjo de Combate",
         "image": "http://api.androidhive.info/json/movies/9.jpg",
-        "releaseYear": 2013
+        "releaseYear": 2015
     },
     {
-        "title": "Drag Me to Hell",
+        "title": "The Batman",
         "image": "http://api.androidhive.info/json/movies/10.jpg",
-        "releaseYear": 2009
+        "releaseYear": 2022
     },
     {
-        "title": "Despicable Me 2",
+        "title": "Dr. Estranho 2",
         "image": "http://api.androidhive.info/json/movies/11.jpg",
-        "releaseYear": 2013
+        "releaseYear": 2022
     },
     {
-        "title": "Kill Bill: Vol. 1",
+        "title": "Stranger Things 4",
         "image": "http://api.androidhive.info/json/movies/12.jpg",
-        "releaseYear": 2003
+        "releaseYear": 2022
     },
     {
-        "title": "A Bug's Life",
+        "title": "The House of Dragon",
         "image": "http://api.androidhive.info/json/movies/13.jpg",
-        "releaseYear": 1998
+        "releaseYear": 2022
     },
     {
-        "title": "Life of Brian",
+        "title": "Avatar",
         "image": "http://api.androidhive.info/json/movies/14.jpg",
-        "releaseYear": 1972
+        "releaseYear": 2011
     },
     {
-        "title": "How to Train Your Dragon",
+        "title": "The Last of Us",
         "image": "http://api.androidhive.info/json/movies/15.jpg",
-        "releaseYear": 2010
+        "releaseYear": 2022
     },
     {
-        "title": "Vai dar o boggagagagag",
+        "title": "Pixels",
         "image": "http://api.androidhive.info/json/movies/15.jpg",
-        "releaseYear": 5695
+        "releaseYear": 2020
     }]
