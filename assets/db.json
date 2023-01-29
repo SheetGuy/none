@@ -1,21 +1,9 @@
 {
   "adicionado-recentemente": [
     {
-      "titulo": "M3gan",
-      "data": "2023",
-      "imagem": "d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",
-      "pgAutores": {
-        "pgAutor1": "autores/jose-manzano.php"
-      },
-      "autores": {
-        "autor1": "José Augusto N. G. Manzano"
-      },
-      "categoria": "Programação",
-      "isbn": "978-85-7522-683-4",
-      "ano": "2018",
-      "paginas": "312",
-      "preco": 69,
-      "estoque": "Disponível também em formato ebook"
+      "title": "M3gan",
+      "ano": "2023",
+      "image": "d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",
     },
 
     {
