@@ -1,9 +1,21 @@
-{
-  "featured": {
-     "title": "The Last os Us",
-     "type": "a série",
-     "imageid": "https://image.tmdb.org/t/p/original/kQdyZtEo4iBjoJ82SX5oTCoRwjR.jpg",
-     "released": "15 de Janeiro",
-     "href": "the-last-of-us.html"
-  }
-}
+[{ 
+     "id": 1, 
+     "name": { 
+       "english": "Bulbasaur", 
+       "japanese": "フシギダネ", 
+       "chinese": "妙蛙种子", 
+       "french": "Bulbizarre" 
+     }, 
+     "type": [ 
+       "Grass", 
+       "Poison" 
+     ], 
+     "base": { 
+       "HP": 45, 
+       "Attack": 49, 
+       "Defense": 49, 
+       "Sp. Attack": 65, 
+       "Sp. Defense": 65, 
+       "Speed": 45 
+     } 
+}]
